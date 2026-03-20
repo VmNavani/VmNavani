@@ -1,5 +1,5 @@
 # 💫 About Me:
-html css javascript php c++ c python sql 
+
 
 
 # 💻 Tech Stack:
